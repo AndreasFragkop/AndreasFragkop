@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">JavaScript developer focused on modern web development and clean code, with a practical approach to building and improving real projects.</p>
+<p align="left">Enthusiast in PC hardware and software development, with a strong interest in coding, system design, Linux, and cybersecurity.</p>
 
 ###
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools I Use:</h2>
 
 ###
 
