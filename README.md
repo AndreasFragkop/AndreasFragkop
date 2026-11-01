@@ -33,3 +33,10 @@
 </div>
 
 ###
+
+<h2 align="left">GitHub Stats:</h2>
+
+<div align="left">
+  <a href="https://github.com/AndreasFragkop?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAndreasFragkop&amp;query=%24.public_repos&amp;label=Public+repos&amp;style=for-the-badge&amp;color=44cc11&amp;labelColor=555555" alt="Public repositories" /></a>
+  <a href="https://github.com/AndreasFragkop?tab=repositories"><img src="https://img.shields.io/github/stars/AndreasFragkop?style=for-the-badge&amp;label=Stars%20received&amp;color=44cc11&amp;labelColor=555555" alt="Stars received" /></a>
+</div>
