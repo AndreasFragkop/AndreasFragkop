@@ -23,7 +23,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code logo" title="VS Code" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original-wordmark.svg" width="70" height="40" alt="Node.js logo" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js logo" title="Node.js" />
   &nbsp;
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
