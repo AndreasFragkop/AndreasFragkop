@@ -1,24 +1,8 @@
-<h1 align="left">Welcome to my GitHub 👋</h1>
+<h1 align="left">Hello everyone</h1>
 
-###
+<p align="left">My name is Andreas - I am a high school senior aspiring to become a software engineer, with a strong interest in cybersecurity, web development, and AI-assisted software development.</p>
 
-<h2 align="left">About me:</h2>
-
-###
-
-<p align="left">Enthusiast in PC hardware and software development, with a strong interest in coding, system design, Linux, and cybersecurity.</p>
-
-###
-
-<h2 align="left">Languages and Tools I Use:</h2>
-
-###
-
-![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![HTML5](https://skillicons.dev/icons?i=html) &nbsp; ![CSS3](https://skillicons.dev/icons?i=css) &nbsp; ![VS Code](https://skillicons.dev/icons?i=vscode) &nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![Arduino](https://skillicons.dev/icons?i=arduino) &nbsp; ![Git](https://skillicons.dev/icons?i=git)
-
-###
-
-<h2 align="left">GitHub Stats:</h2>
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev/icons?i=js)&thinsp; [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev/icons?i=html)&thinsp; [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev/icons?i=css)&thinsp; [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev/icons?i=vscode)&thinsp; [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev/icons?i=nodejs)&thinsp; [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev/icons?i=github)&thinsp; [![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev/icons?i=arduino)&thinsp; [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/icons?i=git)
 
 <div align="left">
   <a href="https://github.com/AndreasFragkop?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAndreasFragkop&amp;query=%24.public_repos&amp;label=Public+repos&amp;style=for-the-badge&amp;color=58a6ff&amp;labelColor=555555" alt="Public repositories" /></a>
