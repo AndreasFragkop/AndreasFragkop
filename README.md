@@ -14,27 +14,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript logo" title="JavaScript" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5 logo" title="HTML5" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3 logo" title="CSS3" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code logo" title="VS Code" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js logo" title="Node.js" />
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub logo" title="GitHub" />
-  </picture>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino logo" title="Arduino" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" width="40" height="40" alt="Git logo" title="Git" />
-</div>
+![JavaScript](https://skillicons.dev/icons?i=js) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![GitHub](https://skillicons.dev/icons?i=github) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Git](https://skillicons.dev/icons?i=git)
 
 ###
 
