@@ -14,7 +14,7 @@
 
 ###
 
-![JavaScript](https://skillicons.dev/icons?i=js) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![GitHub](https://skillicons.dev/icons?i=github) ![Arduino](https://skillicons.dev/icons?i=arduino) ![Git](https://skillicons.dev/icons?i=git)
+![JavaScript](https://skillicons.dev/icons?i=js) &nbsp; ![HTML5](https://skillicons.dev/icons?i=html) &nbsp; ![CSS3](https://skillicons.dev/icons?i=css) &nbsp; ![VS Code](https://skillicons.dev/icons?i=vscode) &nbsp; ![Node.js](https://skillicons.dev/icons?i=nodejs) &nbsp; ![GitHub](https://skillicons.dev/icons?i=github) &nbsp; ![Arduino](https://skillicons.dev/icons?i=arduino) &nbsp; ![Git](https://skillicons.dev/icons?i=git)
 
 ###
 
