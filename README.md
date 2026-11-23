@@ -1,6 +1,6 @@
-<h1 align="left">Hello everyone</h1>
+<h1 align="left">Hello everyone! 👋</h1>
 
-<p align="left">My name is Andreas - I am a high school senior aspiring to become a software engineer, with a strong interest in cybersecurity, web development, and AI-assisted software development.</p>
+<p align="left"><strong>I am Andreas -</strong> I am a high school senior aspiring to become a software engineer, with a strong interest in cybersecurity, web development, and AI-assisted software development.</p>
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev/icons?i=js)&thinsp; [![HTML5](https://skillicons.dev/icons?i=html)](https://skillicons.dev/icons?i=html)&thinsp; [![CSS3](https://skillicons.dev/icons?i=css)](https://skillicons.dev/icons?i=css)&thinsp; [![VS Code](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev/icons?i=vscode)&thinsp; [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev/icons?i=nodejs)&thinsp; [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev/icons?i=github)&thinsp; [![Arduino](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev/icons?i=arduino)&thinsp; [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev/icons?i=git)
 
